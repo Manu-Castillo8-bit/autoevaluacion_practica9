@@ -1,0 +1,42 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="SumaApp.MainPage">
+
+    <ScrollView>
+        <VerticalStackLayout>
+            
+            <Label
+                Text="Programa que suma números"/>
+
+            <Label
+                Text="Ingresa el primer número" />
+          
+            <Entry 
+                x:Name="primer_numero_entry"
+                Placeholder="Primer número" />
+
+            <Label
+     Text="Ingresa el segundo número" />
+          
+            <Entry 
+    x:Name="segundo_numero_entry"
+    Placeholder="Segundo número" />
+            
+            <Button
+                x:Name="CounterBtn"
+                Text="Calcular suma"
+                Clicked="OnCounterClicked"
+                HorizontalOptions="Fill" />
+
+            <Label
+Text="Resultado:" />
+
+            <Entry 
+x:Name="resultado_entry"
+Placeholder="" />
+
+        </VerticalStackLayout>
+    </ScrollView>
+
+</ContentPage>

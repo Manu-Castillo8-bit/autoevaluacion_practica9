@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SumaApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0+ee4cb99cc4cc22eb8a1bc0825ac20e35272e267d")]
 [assembly: System.Reflection.AssemblyProductAttribute("SumaApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SumaApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="SumaApp.Resta_de_edades"
+             Title="Resta de edades">
+    <VerticalStackLayout>
+        <Label 
+            Text="Resta de edades"
+            VerticalOptions="Center" 
+            HorizontalOptions="Center" />
+
+        <Label Text="Ingrese la primera edad:" />
+        <Entry 
+            x:Name="edad1_entry"
+            Placeholder="Edad N° 1" />
+        <Label Text="Ingrese la segunda edad:" />
+        <Entry 
+            x:Name="edad2_entry"
+            Placeholder="Edad N° 2" />
+
+        <Button
+            x:Name="Resta_btn"
+            Text="Calcular Resta"
+                Clicked="Resta_btn_Clicked"/>
+
+        <Label Text="Resultado:" />
+        <Entry 
+     x:Name="resultado_entry"
+     Placeholder="" />
+        
+    </VerticalStackLayout>
+</ContentPage>

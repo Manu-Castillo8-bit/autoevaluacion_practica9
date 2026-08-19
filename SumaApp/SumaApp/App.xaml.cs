@@ -7,11 +7,9 @@ namespace SumaApp
         public App()
         {
             InitializeComponent();
+            MainPage = new Resta_de_edades();
         }
 
-        protected override Window CreateWindow(IActivationState? activationState)
-        {
-            return new Window(new AppShell());
-        }
+        
     }
 }

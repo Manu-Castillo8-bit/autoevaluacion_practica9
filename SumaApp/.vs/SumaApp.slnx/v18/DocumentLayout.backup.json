@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\User\\Desktop\\Autoevaluacion\\SumaApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{32C50431-A66D-CD9B-7DDB-EB0CF3B8C26D}|SumaApp\\SumaApp.csproj|c:\\users\\user\\desktop\\autoevaluacion\\sumaapp\\sumaapp\\newpage1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32C50431-A66D-CD9B-7DDB-EB0CF3B8C26D}|SumaApp\\SumaApp.csproj|solutionrelative:sumaapp\\newpage1.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32C50431-A66D-CD9B-7DDB-EB0CF3B8C26D}|SumaApp\\SumaApp.csproj|c:\\users\\user\\desktop\\autoevaluacion\\sumaapp\\sumaapp\\newpage1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{32C50431-A66D-CD9B-7DDB-EB0CF3B8C26D}|SumaApp\\SumaApp.csproj|solutionrelative:sumaapp\\newpage1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{32C50431-A66D-CD9B-7DDB-EB0CF3B8C26D}|SumaApp\\SumaApp.csproj|c:\\users\\user\\desktop\\autoevaluacion\\sumaapp\\sumaapp\\resta_de_edades.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{32C50431-A66D-CD9B-7DDB-EB0CF3B8C26D}|SumaApp\\SumaApp.csproj|solutionrelative:sumaapp\\resta_de_edades.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
@@ -27,19 +35,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "NewPage1.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Autoevaluacion\\SumaApp\\SumaApp\\NewPage1.xaml.cs",
+              "RelativeDocumentMoniker": "SumaApp\\NewPage1.xaml.cs",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Autoevaluacion\\SumaApp\\SumaApp\\NewPage1.xaml.cs",
+              "RelativeToolTip": "SumaApp\\NewPage1.xaml.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAUwCMAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-19T05:58:59.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NewPage1.xaml",
+              "DocumentMoniker": "C:\\Users\\User\\Desktop\\Autoevaluacion\\SumaApp\\SumaApp\\NewPage1.xaml",
+              "RelativeDocumentMoniker": "SumaApp\\NewPage1.xaml",
+              "ToolTip": "C:\\Users\\User\\Desktop\\Autoevaluacion\\SumaApp\\SumaApp\\NewPage1.xaml",
+              "RelativeToolTip": "SumaApp\\NewPage1.xaml",
+              "ViewState": "AgIAABgAAABAZmZmZmYkwA0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-08-19T05:41:09.221Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Resta_de_edades.xaml",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Autoevaluacion\\SumaApp\\SumaApp\\Resta_de_edades.xaml",
               "RelativeDocumentMoniker": "SumaApp\\Resta_de_edades.xaml",
               "ToolTip": "C:\\Users\\User\\Desktop\\Autoevaluacion\\SumaApp\\SumaApp\\Resta_de_edades.xaml",
               "RelativeToolTip": "SumaApp\\Resta_de_edades.xaml",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwB8AAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAQwA8AAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2026-08-19T05:29:24.548Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "MainPage.xaml.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Autoevaluacion\\SumaApp\\SumaApp\\MainPage.xaml.cs",
               "RelativeDocumentMoniker": "SumaApp\\MainPage.xaml.cs",
@@ -47,12 +81,11 @@
               "RelativeToolTip": "SumaApp\\MainPage.xaml.cs",
               "ViewState": "AgIAABkAAAAAAAAAAAAUwCYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-19T02:39:30.551Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-19T02:39:30.551Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Resta_de_edades.xaml.cs",
               "DocumentMoniker": "C:\\Users\\User\\Desktop\\Autoevaluacion\\SumaApp\\SumaApp\\Resta_de_edades.xaml.cs",
               "RelativeDocumentMoniker": "SumaApp\\Resta_de_edades.xaml.cs",
@@ -60,8 +93,7 @@
               "RelativeToolTip": "SumaApp\\Resta_de_edades.xaml.cs",
               "ViewState": "AgIAABwAAAAAAAAAAAAQwDAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-08-19T02:19:23.043Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-08-19T02:19:23.043Z"
             }
           ]
         }

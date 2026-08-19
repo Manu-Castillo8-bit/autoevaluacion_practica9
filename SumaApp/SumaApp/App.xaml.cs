@@ -7,7 +7,7 @@ namespace SumaApp
         public App()
         {
             InitializeComponent();
-            MainPage = new Resta_de_edades();
+            MainPage = new NewPage1();
         }
 
         

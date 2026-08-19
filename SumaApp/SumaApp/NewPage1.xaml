@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="SumaApp.NewPage1"
+             Title="NewPage1">
+    <VerticalStackLayout>
+        <Label 
+            Text="Conversor de divisas"
+            VerticalOptions="Center" 
+            HorizontalOptions="Center" />
+
+        <Label Text="Ingrese la cantidad en DÓLARES:" />
+        <Entry 
+            Keyboard="Numeric"
+           x:Name="moneda_origen_entry"
+            Placeholder="Cantidad" />
+
+        <Picker 
+            x:Name="picker_monedas"
+            Title="Moneda de cambio:" >
+            <Picker.Items>
+            <x:String>Pesos mexicanos</x:String>
+                <x:String>Euros</x:String>
+                <x:String>Soles</x:String>
+            </Picker.Items>
+        </Picker>
+
+        <Label 
+
+            Text="Moneda de destino:" />
+        <Entry
+            IsReadOnly="True"
+             x:Name="moneda_destino_entry"
+            Placeholder="Resultado" />
+
+    
+<Button
+    x:Name="convertir_btn"
+    Text="Convertir"
+    Clicked="convertir_btn_Clicked"
+  />
+    
+    </VerticalStackLayout>
+</ContentPage>
